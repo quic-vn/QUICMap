@@ -1,0 +1,604 @@
+ip_version,dimension,value,count,percent_of_total
+ipv4,province_34,TP. Hà Nội,7799,0.679651
+ipv4,province_34,TP. Hồ Chí Minh,2907,0.253333
+ipv4,province_34,TP. Đà Nẵng,282,0.024575
+ipv4,province_34,Gia Lai,234,0.020392
+ipv4,province_34,Hà Tĩnh,39,0.003399
+ipv4,province_34,Ninh Bình,23,0.002004
+ipv4,province_34,Đồng Nai,22,0.001917
+ipv4,province_34,(unmapped),17,0.001481
+ipv4,province_34,TP. Cần Thơ,17,0.001481
+ipv4,province_34,Quảng Ngãi,16,0.001394
+ipv4,province_34,Cao Bằng,13,0.001133
+ipv4,province_34,Thanh Hóa,13,0.001133
+ipv4,province_34,TP. Huế,12,0.001046
+ipv4,province_34,Nghệ An,11,0.000959
+ipv4,province_34,Bắc Ninh,11,0.000959
+ipv4,province_34,Đắk Lắk,11,0.000959
+ipv4,province_34,Điện Biên,9,0.000784
+ipv4,province_34,TP. Hải Phòng,7,0.00061
+ipv4,province_34,An Giang,7,0.00061
+ipv4,province_34,Quảng Trị,6,0.000523
+ipv4,province_34,Phú Thọ,3,0.000261
+ipv4,province_34,Khánh Hòa,3,0.000261
+ipv4,province_34,Thái Nguyên,3,0.000261
+ipv4,province_34,Quảng Ninh,2,0.000174
+ipv4,province_34,Hưng Yên,2,0.000174
+ipv4,province_34,Vĩnh Long,2,0.000174
+ipv4,province_34,Đồng Tháp,1,8.7e-05
+ipv4,province_34,Cà Mau,1,8.7e-05
+ipv4,province_34,Tuyên Quang,1,8.7e-05
+ipv4,province_34,Lâm Đồng,1,8.7e-05
+ipv4,region_name_raw,Ha Noi,7799,0.679651
+ipv4,region_name_raw,Ho Chi Minh,2672,0.232854
+ipv4,region_name_raw,Da Nang,281,0.024488
+ipv4,region_name_raw,Gia Lai,232,0.020218
+ipv4,region_name_raw,Ba Ria - Vung Tau,223,0.019434
+ipv4,region_name_raw,Ha Tinh,39,0.003399
+ipv4,region_name_raw,Dong Nai,21,0.00183
+ipv4,region_name_raw,-,17,0.001481
+ipv4,region_name_raw,Kon Tum,16,0.001394
+ipv4,region_name_raw,Cao Bang,13,0.001133
+ipv4,region_name_raw,Thanh Hoa,13,0.001133
+ipv4,region_name_raw,Nam Dinh,12,0.001046
+ipv4,region_name_raw,Thua Thien-Hue,12,0.001046
+ipv4,region_name_raw,Binh Duong,12,0.001046
+ipv4,region_name_raw,Nghe An,11,0.000959
+ipv4,region_name_raw,Ha Nam,11,0.000959
+ipv4,region_name_raw,Dien Bien,9,0.000784
+ipv4,region_name_raw,Hau Giang,9,0.000784
+ipv4,region_name_raw,Phu Yen,9,0.000784
+ipv4,region_name_raw,Can Tho,8,0.000697
+ipv4,region_name_raw,Bac Giang,7,0.00061
+ipv4,region_name_raw,Hai Duong,6,0.000523
+ipv4,region_name_raw,Quang Tri,6,0.000523
+ipv4,region_name_raw,An Giang,5,0.000436
+ipv4,region_name_raw,Bac Ninh,4,0.000349
+ipv4,region_name_raw,Khanh Hoa,3,0.000261
+ipv4,region_name_raw,Thai Nguyen,3,0.000261
+ipv4,region_name_raw,Vinh Phuc,2,0.000174
+ipv4,region_name_raw,Quang Ninh,2,0.000174
+ipv4,region_name_raw,Thai Binh,2,0.000174
+ipv4,region_name_raw,Vinh Long,2,0.000174
+ipv4,region_name_raw,Kien Giang,2,0.000174
+ipv4,region_name_raw,Dak Lak,2,0.000174
+ipv4,region_name_raw,Binh Dinh,2,0.000174
+ipv4,region_name_raw,Dong Thap,1,8.7e-05
+ipv4,region_name_raw,Binh Phuoc,1,8.7e-05
+ipv4,region_name_raw,Hoa Binh,1,8.7e-05
+ipv4,region_name_raw,Quang Nam,1,8.7e-05
+ipv4,region_name_raw,Hai Phong,1,8.7e-05
+ipv4,region_name_raw,Ca Mau,1,8.7e-05
+ipv4,region_name_raw,Tuyen Quang,1,8.7e-05
+ipv4,region_name_raw,Lam Dong,1,8.7e-05
+ipv4,city_name,Hanoi,7787,0.678606
+ipv4,city_name,Ho Chi Minh City,2657,0.231547
+ipv4,city_name,Da Nang,281,0.024488
+ipv4,city_name,Le Thanh,231,0.020131
+ipv4,city_name,Tan Binh,220,0.019172
+ipv4,city_name,Ha Tinh,32,0.002789
+ipv4,city_name,Bien Hoa,21,0.00183
+ipv4,city_name,-,17,0.001481
+ipv4,city_name,Can Gio,15,0.001307
+ipv4,city_name,Dong Da,13,0.001133
+ipv4,city_name,Nam Dinh,12,0.001046
+ipv4,city_name,Hue,12,0.001046
+ipv4,city_name,Bach Kim,12,0.001046
+ipv4,city_name,Bong Bang,12,0.001046
+ipv4,city_name,Vinh,11,0.000959
+ipv4,city_name,Phu Ly,11,0.000959
+ipv4,city_name,Thanh Xuan,9,0.000784
+ipv4,city_name,Song Cau,9,0.000784
+ipv4,city_name,Thu Dau Mot,9,0.000784
+ipv4,city_name,Can Tho,8,0.000697
+ipv4,city_name,Thanh Hoa,7,0.00061
+ipv4,city_name,Hai Duong,6,0.000523
+ipv4,city_name,Dong Ha,6,0.000523
+ipv4,city_name,Muong Nhe,5,0.000436
+ipv4,city_name,Nghi Son,5,0.000436
+ipv4,city_name,Dien Bien Phu,4,0.000349
+ipv4,city_name,Khanh Hoa,4,0.000349
+ipv4,city_name,Dong Nai,4,0.000349
+ipv4,city_name,Thang,4,0.000349
+ipv4,city_name,Tan Phu,3,0.000261
+ipv4,city_name,Bac Giang,3,0.000261
+ipv4,city_name,Nha Trang,3,0.000261
+ipv4,city_name,Thai Nguyen,3,0.000261
+ipv4,city_name,Binh Duong,3,0.000261
+ipv4,city_name,Vinh Phuc,3,0.000261
+ipv4,city_name,Uyen Hung,3,0.000261
+ipv4,city_name,Vinh Yen,2,0.000174
+ipv4,city_name,Ha Long,2,0.000174
+ipv4,city_name,Thai Binh,2,0.000174
+ipv4,city_name,Vinh Long,2,0.000174
+ipv4,city_name,Buon Ma Thuot,2,0.000174
+ipv4,city_name,Qui Nhon,2,0.000174
+ipv4,city_name,Van Thu,1,8.7e-05
+ipv4,city_name,Cao Lanh,1,8.7e-05
+ipv4,city_name,Duong To,1,8.7e-05
+ipv4,city_name,Duc Thanh,1,8.7e-05
+ipv4,city_name,Dong Xoai,1,8.7e-05
+ipv4,city_name,Quang Trung,1,8.7e-05
+ipv4,city_name,Kon Tum,1,8.7e-05
+ipv4,city_name,Hoi An,1,8.7e-05
+ipv4,city_name,Haiphong,1,8.7e-05
+ipv4,city_name,Ca Mau,1,8.7e-05
+ipv4,city_name,Chu Se,1,8.7e-05
+ipv4,city_name,Long Xuyen,1,8.7e-05
+ipv4,city_name,Tuyen Quang,1,8.7e-05
+ipv4,city_name,Lien Loc,1,8.7e-05
+ipv4,city_name,Bac Ninh,1,8.7e-05
+ipv4,city_name,Tra Tan,1,8.7e-05
+ipv4,city_name,Di Linh,1,8.7e-05
+ipv4,city_name,Phu Quoc,1,8.7e-05
+ipv4,region_city,Ha Noi / Hanoi,7787,0.678606
+ipv4,region_city,Ho Chi Minh / Ho Chi Minh City,2657,0.231547
+ipv4,region_city,Da Nang / Da Nang,281,0.024488
+ipv4,region_city,Gia Lai / Le Thanh,231,0.020131
+ipv4,region_city,Ba Ria - Vung Tau / Tan Binh,220,0.019172
+ipv4,region_city,Ha Tinh / Ha Tinh,32,0.002789
+ipv4,region_city,Dong Nai / Bien Hoa,21,0.00183
+ipv4,region_city,- / -,17,0.001481
+ipv4,region_city,Ho Chi Minh / Can Gio,15,0.001307
+ipv4,region_city,Cao Bang / Dong Da,13,0.001133
+ipv4,region_city,Nam Dinh / Nam Dinh,12,0.001046
+ipv4,region_city,Thua Thien-Hue / Hue,12,0.001046
+ipv4,region_city,Ha Noi / Bach Kim,12,0.001046
+ipv4,region_city,Kon Tum / Bong Bang,12,0.001046
+ipv4,region_city,Nghe An / Vinh,11,0.000959
+ipv4,region_city,Ha Nam / Phu Ly,11,0.000959
+ipv4,region_city,Hau Giang / Thanh Xuan,9,0.000784
+ipv4,region_city,Phu Yen / Song Cau,9,0.000784
+ipv4,region_city,Binh Duong / Thu Dau Mot,9,0.000784
+ipv4,region_city,Can Tho / Can Tho,8,0.000697
+ipv4,region_city,Thanh Hoa / Thanh Hoa,7,0.00061
+ipv4,region_city,Hai Duong / Hai Duong,6,0.000523
+ipv4,region_city,Quang Tri / Dong Ha,6,0.000523
+ipv4,region_city,Dien Bien / Muong Nhe,5,0.000436
+ipv4,region_city,Thanh Hoa / Nghi Son,5,0.000436
+ipv4,region_city,Dien Bien / Dien Bien Phu,4,0.000349
+ipv4,region_city,An Giang / Khanh Hoa,4,0.000349
+ipv4,region_city,Ha Tinh / Dong Nai,4,0.000349
+ipv4,region_city,Bac Giang / Thang,4,0.000349
+ipv4,region_city,Kon Tum / Tan Phu,3,0.000261
+ipv4,region_city,Bac Giang / Bac Giang,3,0.000261
+ipv4,region_city,Khanh Hoa / Nha Trang,3,0.000261
+ipv4,region_city,Thai Nguyen / Thai Nguyen,3,0.000261
+ipv4,region_city,Ha Tinh / Binh Duong,3,0.000261
+ipv4,region_city,Bac Ninh / Vinh Phuc,3,0.000261
+ipv4,region_city,Binh Duong / Uyen Hung,3,0.000261
+ipv4,region_city,Vinh Phuc / Vinh Yen,2,0.000174
+ipv4,region_city,Quang Ninh / Ha Long,2,0.000174
+ipv4,region_city,Thai Binh / Thai Binh,2,0.000174
+ipv4,region_city,Vinh Long / Vinh Long,2,0.000174
+ipv4,region_city,Dak Lak / Buon Ma Thuot,2,0.000174
+ipv4,region_city,Binh Dinh / Qui Nhon,2,0.000174
+ipv4,region_city,Thanh Hoa / Van Thu,1,8.7e-05
+ipv4,region_city,Dong Thap / Cao Lanh,1,8.7e-05
+ipv4,region_city,Kien Giang / Duong To,1,8.7e-05
+ipv4,region_city,Ba Ria - Vung Tau / Duc Thanh,1,8.7e-05
+ipv4,region_city,Binh Phuoc / Dong Xoai,1,8.7e-05
+ipv4,region_city,Hoa Binh / Quang Trung,1,8.7e-05
+ipv4,region_city,Kon Tum / Kon Tum,1,8.7e-05
+ipv4,region_city,Quang Nam / Hoi An,1,8.7e-05
+ipv4,region_city,Hai Phong / Haiphong,1,8.7e-05
+ipv4,region_city,Ca Mau / Ca Mau,1,8.7e-05
+ipv4,region_city,Gia Lai / Chu Se,1,8.7e-05
+ipv4,region_city,An Giang / Long Xuyen,1,8.7e-05
+ipv4,region_city,Tuyen Quang / Tuyen Quang,1,8.7e-05
+ipv4,region_city,Ba Ria - Vung Tau / Lien Loc,1,8.7e-05
+ipv4,region_city,Bac Ninh / Bac Ninh,1,8.7e-05
+ipv4,region_city,Ba Ria - Vung Tau / Tra Tan,1,8.7e-05
+ipv4,region_city,Lam Dong / Di Linh,1,8.7e-05
+ipv4,region_city,Kien Giang / Phu Quoc,1,8.7e-05
+ipv4,asn,7552,3149,0.274423
+ipv4,asn,45899,3025,0.263617
+ipv4,asn,18403,1140,0.099346
+ipv4,asn,135905,523,0.045577
+ipv4,asn,45544,508,0.04427
+ipv4,asn,63760,463,0.040349
+ipv4,asn,135951,453,0.039477
+ipv4,asn,131429,201,0.017516
+ipv4,asn,45543,196,0.017081
+ipv4,asn,135967,162,0.014118
+ipv4,asn,131392,99,0.008627
+ipv4,asn,45903,81,0.007059
+ipv4,asn,131353,81,0.007059
+ipv4,asn,140832,76,0.006623
+ipv4,asn,56150,71,0.006187
+ipv4,asn,150895,59,0.005142
+ipv4,asn,63734,55,0.004793
+ipv4,asn,38247,52,0.004532
+ipv4,asn,7602,52,0.004532
+ipv4,asn,24173,45,0.003922
+ipv4,asn,45538,43,0.003747
+ipv4,asn,131428,42,0.00366
+ipv4,asn,38731,42,0.00366
+ipv4,asn,151858,39,0.003399
+ipv4,asn,7643,35,0.00305
+ipv4,asn,38732,33,0.002876
+ipv4,asn,149131,32,0.002789
+ipv4,asn,135983,32,0.002789
+ipv4,asn,140825,31,0.002702
+ipv4,asn,45894,29,0.002527
+ipv4,asn,135918,26,0.002266
+ipv4,asn,135917,26,0.002266
+ipv4,asn,24088,25,0.002179
+ipv4,asn,135932,23,0.002004
+ipv4,asn,140810,22,0.001917
+ipv4,asn,149089,21,0.00183
+ipv4,asn,131386,19,0.001656
+ipv4,asn,150862,19,0.001656
+ipv4,asn,152992,19,0.001656
+ipv4,asn,63759,19,0.001656
+ipv4,asn,56153,19,0.001656
+ipv4,asn,24085,18,0.001569
+ipv4,asn,135987,17,0.001481
+ipv4,asn,131435,16,0.001394
+ipv4,asn,38244,14,0.00122
+ipv4,asn,131423,13,0.001133
+ipv4,asn,151901,13,0.001133
+ipv4,asn,149068,12,0.001046
+ipv4,asn,140762,11,0.000959
+ipv4,asn,135908,11,0.000959
+ipv4,asn,38733,11,0.000959
+ipv4,asn,151917,11,0.000959
+ipv4,asn,149161,10,0.000871
+ipv4,asn,135901,10,0.000871
+ipv4,asn,149147,10,0.000871
+ipv4,asn,135944,10,0.000871
+ipv4,asn,153651,9,0.000784
+ipv4,asn,63765,8,0.000697
+ipv4,asn,149107,8,0.000697
+ipv4,asn,152989,8,0.000697
+ipv4,asn,153416,8,0.000697
+ipv4,asn,38253,7,0.00061
+ipv4,asn,149085,7,0.00061
+ipv4,asn,63740,7,0.00061
+ipv4,asn,152979,7,0.00061
+ipv4,asn,135921,6,0.000523
+ipv4,asn,135953,5,0.000436
+ipv4,asn,150873,5,0.000436
+ipv4,asn,151873,5,0.000436
+ipv4,asn,63730,5,0.000436
+ipv4,asn,38726,5,0.000436
+ipv4,asn,131366,4,0.000349
+ipv4,asn,131414,4,0.000349
+ipv4,asn,133606,4,0.000349
+ipv4,asn,153017,4,0.000349
+ipv4,asn,56160,4,0.000349
+ipv4,asn,135959,3,0.000261
+ipv4,asn,135990,3,0.000261
+ipv4,asn,131378,3,0.000261
+ipv4,asn,149137,3,0.000261
+ipv4,asn,140787,3,0.000261
+ipv4,asn,149143,3,0.000261
+ipv4,asn,63732,3,0.000261
+ipv4,asn,151852,3,0.000261
+ipv4,asn,151863,3,0.000261
+ipv4,asn,150900,3,0.000261
+ipv4,asn,149145,3,0.000261
+ipv4,asn,135942,2,0.000174
+ipv4,asn,140818,2,0.000174
+ipv4,asn,140766,2,0.000174
+ipv4,asn,149118,2,0.000174
+ipv4,asn,140815,2,0.000174
+ipv4,asn,45552,2,0.000174
+ipv4,asn,63735,2,0.000174
+ipv4,asn,131440,2,0.000174
+ipv4,asn,150828,2,0.000174
+ipv4,asn,150861,2,0.000174
+ipv4,asn,131357,2,0.000174
+ipv4,asn,135912,2,0.000174
+ipv4,asn,24086,2,0.000174
+ipv4,asn,149113,2,0.000174
+ipv4,asn,140829,1,8.7e-05
+ipv4,asn,149124,1,8.7e-05
+ipv4,asn,63739,1,8.7e-05
+ipv4,asn,153413,1,8.7e-05
+ipv4,asn,140770,1,8.7e-05
+ipv4,asn,153447,1,8.7e-05
+ipv4,asn,131404,1,8.7e-05
+ipv4,asn,63737,1,8.7e-05
+ipv4,asn,131425,1,8.7e-05
+ipv4,asn,131427,1,8.7e-05
+ipv4,asn,135922,1,8.7e-05
+ipv4,asn,154350,1,8.7e-05
+ipv4,asn,151908,1,8.7e-05
+ipv4,asn,152933,1,8.7e-05
+ipv4,asn,153501,1,8.7e-05
+ipv4,asn,154552,1,8.7e-05
+ipv4,asn,153830,1,8.7e-05
+ipv4,asn,56158,1,8.7e-05
+ipv4,asn,38727,1,8.7e-05
+ipv4,asn,131367,1,8.7e-05
+ipv4,as_organization,VNPT,3583,0.312244
+ipv4,as_organization,Viettel,3197,0.278606
+ipv4,as_organization,FPT Telecom,1171,0.102048
+ipv4,as_organization,SUPERDATA,508,0.04427
+ipv4,as_organization,AZDIGI Corporation,463,0.040349
+ipv4,as_organization,Webico Company Limited,453,0.039477
+ipv4,as_organization,MobiFone,201,0.017516
+ipv4,as_organization,Saigontourist Cable Television,196,0.017081
+ipv4,as_organization,Bach Kim Network Solutions Join Stock Company,162,0.014118
+ipv4,as_organization,CMC Telecom,125,0.010893
+ipv4,as_organization,GMO-Z.com Runsystem Joint Stock Company,99,0.008627
+ipv4,as_organization,NhanHoa Software Company,81,0.007059
+ipv4,as_organization,Vietnam F Tech. JSC,76,0.006623
+ipv4,as_organization,Viet Solutions Services Trading Company Limited,71,0.006187
+ipv4,as_organization,Ez Technology Company Limited,59,0.005142
+ipv4,as_organization,365 Online Technology Joint Stock Company,55,0.004793
+ipv4,as_organization,Vietnamobile,52,0.004532
+ipv4,as_organization,Saigon Postel,52,0.004532
+ipv4,as_organization,NetNam,45,0.003922
+ipv4,as_organization,ODS Joint Stock Company,43,0.003747
+ipv4,as_organization,Rainbow E-Commerce Company Limited,42,0.00366
+ipv4,as_organization,Interdigi Joint Stock Company,39,0.003399
+ipv4,as_organization,Long Van,36,0.003137
+ipv4,as_organization,Hanoi Telecom,32,0.002789
+ipv4,as_organization,Optimal Agency LLC,32,0.002789
+ipv4,as_organization,Tino Group Joint Stock Company,32,0.002789
+ipv4,as_organization,Thien Quang Digital Technology Joint Stock Company,31,0.002702
+ipv4,as_organization,Viet Digital Technology Liability Company,26,0.002266
+ipv4,as_organization,Cong ty TNHH Web Panda,26,0.002266
+ipv4,as_organization,Viet Storage Technology Joint Stock Company,23,0.002004
+ipv4,as_organization,Megacore Technology Company Limited,22,0.001917
+ipv4,as_organization,Cloudfly Corporation,21,0.00183
+ipv4,as_organization,VPSTTT Computer Company Limited,19,0.001656
+ipv4,as_organization,Online Data Company Limited,19,0.001656
+ipv4,as_organization,TaDu Joint Stock Company,19,0.001656
+ipv4,as_organization,Digital Storage Company Limited,19,0.001656
+ipv4,as_organization,Quang Trung Software City Development Company,18,0.001569
+ipv4,as_organization,Reload Company Limited,17,0.001481
+ipv4,as_organization,Vietnam Esports and Entertainment Joint Stock Company,16,0.001394
+ipv4,as_organization,VNG,14,0.00122
+ipv4,as_organization,Hao Quang Viet Software Company Limited,13,0.001133
+ipv4,as_organization,Inet software one member company limited,12,0.001046
+ipv4,as_organization,Vinh Railway Signalling - Telecom Joint Stock Company,11,0.000959
+ipv4,as_organization,Econet Vietnam Corporation,11,0.000959
+ipv4,as_organization,Jupiter Media Joint Stock Company,11,0.000959
+ipv4,as_organization,Mega Technology Company Limited,10,0.000871
+ipv4,as_organization,Phuong Dong Technology Solution Company Limited,10,0.000871
+ipv4,as_organization,Gofiber Software Technology Company Limited,10,0.000871
+ipv4,as_organization,VinhNam Commercial Informatics Service Corporation,10,0.000871
+ipv4,as_organization,QPPF Company Limited,9,0.000784
+ipv4,as_organization,HOSTVN Technology Solutions Joint Stock Company,8,0.000697
+ipv4,as_organization,TrumVPS Company Limited,8,0.000697
+ipv4,as_organization,System 443 Company Limited,8,0.000697
+ipv4,as_organization,Hoang Dieu Cloud Computing Company Limited,8,0.000697
+ipv4,as_organization,E-Data Technology Service Company Limited,7,0.00061
+ipv4,as_organization,TOCDOSOVN-VN,7,0.00061
+ipv4,as_organization,Vietservice Technology Company Limited,7,0.00061
+ipv4,as_organization,Maxserver Company Limited,6,0.000523
+ipv4,as_organization,Vietnam Online Network Solution Joint Stock Compnay,5,0.000436
+ipv4,as_organization,ThuongCloud Company Limited,5,0.000436
+ipv4,as_organization,Tothost Solutions and Technologies Company Limited,5,0.000436
+ipv4,as_organization,VNSO Technology Joint Stock Company,5,0.000436
+ipv4,as_organization,VTC Digicom,5,0.000436
+ipv4,as_organization,Lanit Technology and Communication Joint Stock Company,4,0.000349
+ipv4,as_organization,Tidadigi Company Limited,4,0.000349
+ipv4,as_organization,VIETNIX Solution and Technology Joint Stock Company,4,0.000349
+ipv4,as_organization,Onebim Vietnam Limited Company,3,0.000261
+ipv4,as_organization,Everest Global Joint Stock Company,3,0.000261
+ipv4,as_organization,Cloud Viet Technology Company Limited,3,0.000261
+ipv4,as_organization,Tan Thanh an International Trade Development Company Limited,3,0.000261
+ipv4,as_organization,Lam A Architecture Construction Company Limited,3,0.000261
+ipv4,as_organization,Mona Media Company,3,0.000261
+ipv4,as_organization,Galaxy Play Joint Stock Company,3,0.000261
+ipv4,as_organization,Fute Joint Stock Company,3,0.000261
+ipv4,as_organization,PSG Joint Stock Company,3,0.000261
+ipv4,as_organization,VPSmmo Company Limited,3,0.000261
+ipv4,as_organization,Vnetwork Telecommunication Services Company Limited,3,0.000261
+ipv4,as_organization,Adsota Corporation,2,0.000174
+ipv4,as_organization,D.I.C Viet Nam Technology Joint Stock Company,2,0.000174
+ipv4,as_organization,3S Viet Nam Technology Joint Stock Company,2,0.000174
+ipv4,as_organization,HTTVServer Technology Company Limited,2,0.000174
+ipv4,as_organization,Metaserv Company Limited,2,0.000174
+ipv4,as_organization,Hoatoc Company Limited,2,0.000174
+ipv4,as_organization,Zingplay Vietnam Company Limited,2,0.000174
+ipv4,as_organization,VMon Cloud Company Limited,2,0.000174
+ipv4,as_organization,PowerNet Company Limited,2,0.000174
+ipv4,as_organization,Duy Tan University,2,0.000174
+ipv4,as_organization,VNETWORK Joint Stock Company,2,0.000174
+ipv4,as_organization,Odb Viet Nam Company Limited,2,0.000174
+ipv4,as_organization,VMTK . Trading Investment Co. Ltd,1,8.7e-05
+ipv4,as_organization,WebPX Software Company Limited,1,8.7e-05
+ipv4,as_organization,VIETPN Company Limited,1,8.7e-05
+ipv4,as_organization,HT3 Vietnam Technology Investment and Development Joint Stock Company,1,8.7e-05
+ipv4,as_organization,Digilife Vietnam Digital Services Company Limited,1,8.7e-05
+ipv4,as_organization,360 Technology and Services Company Limited,1,8.7e-05
+ipv4,as_organization,Masters Technology Corporation,1,8.7e-05
+ipv4,as_organization,VietServer Services Technology Company Limited,1,8.7e-05
+ipv4,as_organization,Dien May Xanh Investment Joint Stock Company,1,8.7e-05
+ipv4,as_organization,AOHOAVIET-VN,1,8.7e-05
+ipv4,as_organization,Clearsky Service Solutions Company Limited,1,8.7e-05
+ipv4,as_organization,ATZ Corp Joint Stock Company,1,8.7e-05
+ipv4,as_organization,May Chu Viet Solutions Corporation,1,8.7e-05
+ipv4,as_organization,ZoneCloud Technology Joint Stock Company,1,8.7e-05
+ipv4,as_organization,Pal Vietnam Technology and Trading Joint Stock Company,1,8.7e-05
+ipv4,as_organization,Xylentis Company Limited,1,8.7e-05
+ipv4,as_organization,Upnet Technology Solutions Company Limited,1,8.7e-05
+ipv4,as_organization,Digital World Data Online Company,1,8.7e-05
+ipv4,as_organization,HaNoi University of science and technology,1,8.7e-05
+ipv4,as_organization,Viet Online trading service corporation,1,8.7e-05
+ipv4,as_raw,Viettel Group,3149,0.274423
+ipv4,as_raw,VNPT Corp,3025,0.263617
+ipv4,as_raw,FPT Telecom Company,1140,0.099346
+ipv4,as_raw,Vietnam Posts and Telecommunications Group,523,0.045577
+ipv4,as_raw,SUPERDATA-VN,508,0.04427
+ipv4,as_raw,AZDIGI Corporation,463,0.040349
+ipv4,as_raw,Webico Company Limited,453,0.039477
+ipv4,as_raw,Mobifone Corporation,201,0.017516
+ipv4,as_raw,SaiGon Tourist cable Televition Company,196,0.017081
+ipv4,as_raw,Bach Kim Network Solutions Join Stock Company,162,0.014118
+ipv4,as_raw,CMC Telecom Infrastructure Company,125,0.010893
+ipv4,as_raw,GMO-Z.com Runsystem Joint Stock Company,99,0.008627
+ipv4,as_raw,NhanHoa Software Company,81,0.007059
+ipv4,as_raw,Vietnam F Tech. JSC,76,0.006623
+ipv4,as_raw,Viet Solutions Services Trading Company Limited,71,0.006187
+ipv4,as_raw,Ez Technology Company Limited,59,0.005142
+ipv4,as_raw,365 Online Technology Joint Stock Company,55,0.004793
+ipv4,as_raw,Vietnamobile Telecommunications Joint Stock Company,52,0.004532
+ipv4,as_raw,Sai Gon Postel Corporation,52,0.004532
+ipv4,as_raw,Netnam Company,45,0.003922
+ipv4,as_raw,ODS Joint Stock Company,43,0.003747
+ipv4,as_raw,Rainbow E-Commerce Company Limited,42,0.00366
+ipv4,as_raw,Vietel - CHT Compamy Ltd,42,0.00366
+ipv4,as_raw,Interdigi Joint Stock Company,39,0.003399
+ipv4,as_raw,Vietnam Posts and Telecommunications (VNPT),35,0.00305
+ipv4,as_raw,Optimal Agency LLC,32,0.002789
+ipv4,as_raw,Tino Group Joint Stock Company,32,0.002789
+ipv4,as_raw,Thien Quang Digital Technology Joint Stock Company,31,0.002702
+ipv4,as_raw,FPT Online JSC,29,0.002527
+ipv4,as_raw,Viet Digital Technology Liability Company,26,0.002266
+ipv4,as_raw,Cong ty TNHH Web Panda,26,0.002266
+ipv4,as_raw,Hanoi Telecom Joint Stock Company - HCMC Branch,25,0.002179
+ipv4,as_raw,Viet Storage Technology Joint Stock Company,23,0.002004
+ipv4,as_raw,Megacore Technology Company Limited,22,0.001917
+ipv4,as_raw,Cloudfly Corporation,21,0.00183
+ipv4,as_raw,Long Van System Solution JSC,19,0.001656
+ipv4,as_raw,VPSTTT Computer Company Limited,19,0.001656
+ipv4,as_raw,Online Data Company Limited,19,0.001656
+ipv4,as_raw,TaDu Joint Stock Company,19,0.001656
+ipv4,as_raw,Digital Storage Company Limited,19,0.001656
+ipv4,as_raw,Quang Trung Software City Development Company,18,0.001569
+ipv4,as_raw,Reload Company Limited,17,0.001481
+ipv4,as_raw,Vietnam Esports and Entertainment Joint Stock Company,16,0.001394
+ipv4,as_raw,VNG Corporation,14,0.00122
+ipv4,as_raw,Branch of Long Van System Solution JSC - Hanoi,13,0.001133
+ipv4,as_raw,Hao Quang Viet Software Company Limited,13,0.001133
+ipv4,as_raw,Inet software one member company limited,12,0.001046
+ipv4,as_raw,Vinh Railway Signalling - Telecom Joint Stock Company,11,0.000959
+ipv4,as_raw,Econet Vietnam Corporation,11,0.000959
+ipv4,as_raw,Jupiter Media Joint Stock Company,11,0.000959
+ipv4,as_raw,Mega Technology Company Limited,10,0.000871
+ipv4,as_raw,Phuong Dong Technology Solution Company Limited,10,0.000871
+ipv4,as_raw,Gofiber Software Technology Company Limited,10,0.000871
+ipv4,as_raw,VinhNam Commercial Informatics Service Corporation,10,0.000871
+ipv4,as_raw,QPPF Company Limited,9,0.000784
+ipv4,as_raw,HOSTVN Technology Solutions Joint Stock Company,8,0.000697
+ipv4,as_raw,TrumVPS Company Limited,8,0.000697
+ipv4,as_raw,System 443 Company Limited,8,0.000697
+ipv4,as_raw,Hoang Dieu Cloud Computing Company Limited,8,0.000697
+ipv4,as_raw,Hanoi Telecom JSC,7,0.00061
+ipv4,as_raw,E-Data Technology Service Company Limited,7,0.00061
+ipv4,as_raw,TOCDOSOVN-VN,7,0.00061
+ipv4,as_raw,Vietservice Technology Company Limited,7,0.00061
+ipv4,as_raw,Maxserver Company Limited,6,0.000523
+ipv4,as_raw,Vietnam Online Network Solution Joint Stock Compnay,5,0.000436
+ipv4,as_raw,ThuongCloud Company Limited,5,0.000436
+ipv4,as_raw,Tothost Solutions and Technologies Company Limited,5,0.000436
+ipv4,as_raw,VNSO Technology Joint Stock Company,5,0.000436
+ipv4,as_raw,VTC Digicom,5,0.000436
+ipv4,as_raw,Lanit Technology and Communication Joint Stock Company,4,0.000349
+ipv4,as_raw,Long Van Soft Solution JSC,4,0.000349
+ipv4,as_raw,Viettel Timor Leste,4,0.000349
+ipv4,as_raw,Tidadigi Company Limited,4,0.000349
+ipv4,as_raw,VIETNIX Solution and Technology Joint Stock Company,4,0.000349
+ipv4,as_raw,Onebim Vietnam Limited Company,3,0.000261
+ipv4,as_raw,Everest Global Joint Stock Company,3,0.000261
+ipv4,as_raw,Cloud Viet Technology Company Limited,3,0.000261
+ipv4,as_raw,Tan Thanh an International Trade Development Company Limited,3,0.000261
+ipv4,as_raw,Lam A Architecture Construction Company Limited,3,0.000261
+ipv4,as_raw,Mona Media Company,3,0.000261
+ipv4,as_raw,Galaxy Play Joint Stock Company,3,0.000261
+ipv4,as_raw,Fute Joint Stock Company,3,0.000261
+ipv4,as_raw,PSG Joint Stock Company,3,0.000261
+ipv4,as_raw,VPSmmo Company Limited,3,0.000261
+ipv4,as_raw,Vnetwork Telecommunication Services Company Limited,3,0.000261
+ipv4,as_raw,Adsota Corporation,2,0.000174
+ipv4,as_raw,D.I.C Viet Nam Technology Joint Stock Company,2,0.000174
+ipv4,as_raw,FPT Smart Cloud Company Limited,2,0.000174
+ipv4,as_raw,3S Viet Nam Technology Joint Stock Company,2,0.000174
+ipv4,as_raw,HTTVServer Technology Company Limited,2,0.000174
+ipv4,as_raw,Metaserv Company Limited,2,0.000174
+ipv4,as_raw,Hoatoc Company Limited,2,0.000174
+ipv4,as_raw,Zingplay Vietnam Company Limited,2,0.000174
+ipv4,as_raw,VMon Cloud Company Limited,2,0.000174
+ipv4,as_raw,PowerNet Company Limited,2,0.000174
+ipv4,as_raw,Duy Tan University,2,0.000174
+ipv4,as_raw,VNETWORK Joint Stock Company,2,0.000174
+ipv4,as_raw,Viettel Corporation,2,0.000174
+ipv4,as_raw,Odb Viet Nam Company Limited,2,0.000174
+ipv4,as_raw,VMTK . Trading Investment Co. Ltd,1,8.7e-05
+ipv4,as_raw,WebPX Software Company Limited,1,8.7e-05
+ipv4,as_raw,VIETPN Company Limited,1,8.7e-05
+ipv4,as_raw,HT3 Vietnam Technology Investment and Development Joint Stock Company,1,8.7e-05
+ipv4,as_raw,Digilife Vietnam Digital Services Company Limited,1,8.7e-05
+ipv4,as_raw,360 Technology and Services Company Limited,1,8.7e-05
+ipv4,as_raw,Masters Technology Corporation,1,8.7e-05
+ipv4,as_raw,VietServer Services Technology Company Limited,1,8.7e-05
+ipv4,as_raw,Dien May Xanh Investment Joint Stock Company,1,8.7e-05
+ipv4,as_raw,AOHOAVIET-VN,1,8.7e-05
+ipv4,as_raw,Clearsky Service Solutions Company Limited,1,8.7e-05
+ipv4,as_raw,ATZ Corp Joint Stock Company,1,8.7e-05
+ipv4,as_raw,May Chu Viet Solutions Corporation,1,8.7e-05
+ipv4,as_raw,ZoneCloud Technology Joint Stock Company,1,8.7e-05
+ipv4,as_raw,Pal Vietnam Technology and Trading Joint Stock Company,1,8.7e-05
+ipv4,as_raw,Xylentis Company Limited,1,8.7e-05
+ipv4,as_raw,Upnet Technology Solutions Company Limited,1,8.7e-05
+ipv4,as_raw,Digital World Data Online Company,1,8.7e-05
+ipv4,as_raw,HaNoi University of science and technology,1,8.7e-05
+ipv4,as_raw,Viet Online trading service corporation,1,8.7e-05
+ipv4,time_zone,+07:00,11475,1.0
+ipv4,is_proxy,False,11408,0.994161
+ipv4,is_proxy,True,67,0.005839
+ipv6,province_34,TP. Hồ Chí Minh,2710,0.77695
+ipv6,province_34,TP. Hà Nội,469,0.134461
+ipv6,province_34,Cao Bằng,308,0.088303
+ipv6,province_34,TP. Huế,1,0.000287
+ipv6,region_name_raw,Ho Chi Minh,2710,0.77695
+ipv6,region_name_raw,Ha Noi,469,0.134461
+ipv6,region_name_raw,Cao Bang,308,0.088303
+ipv6,region_name_raw,Thua Thien-Hue,1,0.000287
+ipv6,city_name,Ho Chi Minh City,2710,0.77695
+ipv6,city_name,Hanoi,469,0.134461
+ipv6,city_name,Dong Da,308,0.088303
+ipv6,city_name,Hue,1,0.000287
+ipv6,region_city,Ho Chi Minh / Ho Chi Minh City,2710,0.77695
+ipv6,region_city,Ha Noi / Hanoi,469,0.134461
+ipv6,region_city,Cao Bang / Dong Da,308,0.088303
+ipv6,region_city,Thua Thien-Hue / Hue,1,0.000287
+ipv6,asn,7552,1540,0.441514
+ipv6,asn,45899,1174,0.336583
+ipv6,asn,18403,510,0.146216
+ipv6,asn,45543,123,0.035264
+ipv6,asn,131429,101,0.028956
+ipv6,asn,24173,19,0.005447
+ipv6,asn,45903,9,0.00258
+ipv6,asn,24088,3,0.00086
+ipv6,asn,63734,3,0.00086
+ipv6,asn,149085,2,0.000573
+ipv6,asn,135932,1,0.000287
+ipv6,asn,151858,1,0.000287
+ipv6,asn,135905,1,0.000287
+ipv6,asn,135951,1,0.000287
+ipv6,as_organization,Viettel,1540,0.441514
+ipv6,as_organization,VNPT,1175,0.336869
+ipv6,as_organization,FPT Telecom,510,0.146216
+ipv6,as_organization,Saigontourist Cable Television,123,0.035264
+ipv6,as_organization,MobiFone,101,0.028956
+ipv6,as_organization,NetNam,19,0.005447
+ipv6,as_organization,CMC Telecom,9,0.00258
+ipv6,as_organization,Hanoi Telecom,3,0.00086
+ipv6,as_organization,365 Online Technology Joint Stock Company,3,0.00086
+ipv6,as_organization,E-Data Technology Service Company Limited,2,0.000573
+ipv6,as_organization,Viet Storage Technology Joint Stock Company,1,0.000287
+ipv6,as_organization,Interdigi Joint Stock Company,1,0.000287
+ipv6,as_organization,Webico Company Limited,1,0.000287
+ipv6,as_raw,Viettel Group,1540,0.441514
+ipv6,as_raw,VNPT Corp,1174,0.336583
+ipv6,as_raw,FPT Telecom Company,510,0.146216
+ipv6,as_raw,SaiGon Tourist cable Televition Company,123,0.035264
+ipv6,as_raw,Mobifone Corporation,101,0.028956
+ipv6,as_raw,Netnam Company,19,0.005447
+ipv6,as_raw,CMC Telecom Infrastructure Company,9,0.00258
+ipv6,as_raw,Hanoi Telecom Joint Stock Company - HCMC Branch,3,0.00086
+ipv6,as_raw,365 Online Technology Joint Stock Company,3,0.00086
+ipv6,as_raw,E-Data Technology Service Company Limited,2,0.000573
+ipv6,as_raw,Viet Storage Technology Joint Stock Company,1,0.000287
+ipv6,as_raw,Interdigi Joint Stock Company,1,0.000287
+ipv6,as_raw,Vietnam Posts and Telecommunications Group,1,0.000287
+ipv6,as_raw,Webico Company Limited,1,0.000287
+ipv6,time_zone,+07:00,3488,1.0
+ipv6,is_proxy,False,3488,1.0

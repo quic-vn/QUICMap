@@ -1,0 +1,29 @@
+# Local build/dependency checkouts
+zmap/
+zdns/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment/config
+*.env
+config.env
+
+# Scan outputs and generated databases
+ipv4/output/
+ipv4/output_latest/
+ipv4/database/
+ipv6/output/
+ipv6/output_latest/
+ipv6/database/
+ipv6/old_version/output-*/
+ipv6/old_version/root_outputs/
+
+# Generated scanner binaries
+ipv4/qscanner
+ipv6/qscanner
+
+# Logs
+*.log
+ipv6/log.txt

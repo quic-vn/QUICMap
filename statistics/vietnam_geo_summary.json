@@ -1,0 +1,4255 @@
+{
+  "summary": [
+    {
+      "ip_version": "ipv4",
+      "source_file": "/home/trungnt/vn-quic-scanner-2026/ipv4/output/vietnam-2026-04-28/statistics_qscanner_geo.csv",
+      "total_rows": 11498,
+      "unique_ips": 11498,
+      "geolocated_rows": 11475,
+      "empty_geo_rows": 23,
+      "vietnam_rows": 11475,
+      "vietnam_unique_ips": 11475,
+      "province_unmapped_rows": 17,
+      "geolocated_rate": 0.998,
+      "vietnam_rate": 0.998,
+      "province_unmapped_rate": 0.001481
+    },
+    {
+      "ip_version": "ipv6",
+      "source_file": "/home/trungnt/vn-quic-scanner-2026/ipv6/output/vietnam-2026-04-25/statistics_qscanner_geo.csv",
+      "total_rows": 3488,
+      "unique_ips": 3488,
+      "geolocated_rows": 3488,
+      "empty_geo_rows": 0,
+      "vietnam_rows": 3488,
+      "vietnam_unique_ips": 3488,
+      "province_unmapped_rows": 0,
+      "geolocated_rate": 1.0,
+      "vietnam_rate": 1.0,
+      "province_unmapped_rate": 0.0
+    }
+  ],
+  "distribution": [
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Hà Nội",
+      "count": 7799,
+      "percent_of_total": 0.679651
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Hồ Chí Minh",
+      "count": 2907,
+      "percent_of_total": 0.253333
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Đà Nẵng",
+      "count": 282,
+      "percent_of_total": 0.024575
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Gia Lai",
+      "count": 234,
+      "percent_of_total": 0.020392
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Hà Tĩnh",
+      "count": 39,
+      "percent_of_total": 0.003399
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Ninh Bình",
+      "count": 23,
+      "percent_of_total": 0.002004
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Đồng Nai",
+      "count": 22,
+      "percent_of_total": 0.001917
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "(unmapped)",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Cần Thơ",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Quảng Ngãi",
+      "count": 16,
+      "percent_of_total": 0.001394
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Cao Bằng",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Thanh Hóa",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Huế",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Nghệ An",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Bắc Ninh",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Đắk Lắk",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Điện Biên",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "TP. Hải Phòng",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "An Giang",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Quảng Trị",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Phú Thọ",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Khánh Hòa",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Thái Nguyên",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Quảng Ninh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Hưng Yên",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Vĩnh Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Đồng Tháp",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Cà Mau",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Tuyên Quang",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "province_34",
+      "value": "Lâm Đồng",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ha Noi",
+      "count": 7799,
+      "percent_of_total": 0.679651
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ho Chi Minh",
+      "count": 2672,
+      "percent_of_total": 0.232854
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Da Nang",
+      "count": 281,
+      "percent_of_total": 0.024488
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Gia Lai",
+      "count": 232,
+      "percent_of_total": 0.020218
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ba Ria - Vung Tau",
+      "count": 223,
+      "percent_of_total": 0.019434
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ha Tinh",
+      "count": 39,
+      "percent_of_total": 0.003399
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Dong Nai",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "-",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Kon Tum",
+      "count": 16,
+      "percent_of_total": 0.001394
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Cao Bang",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Thanh Hoa",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Nam Dinh",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Thua Thien-Hue",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Binh Duong",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Nghe An",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ha Nam",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Dien Bien",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Hau Giang",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Phu Yen",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Can Tho",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Bac Giang",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Hai Duong",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Quang Tri",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "An Giang",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Bac Ninh",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Khanh Hoa",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Thai Nguyen",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Vinh Phuc",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Quang Ninh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Thai Binh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Vinh Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Kien Giang",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Dak Lak",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Binh Dinh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Dong Thap",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Binh Phuoc",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Hoa Binh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Quang Nam",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Hai Phong",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Ca Mau",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Tuyen Quang",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_name_raw",
+      "value": "Lam Dong",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Hanoi",
+      "count": 7787,
+      "percent_of_total": 0.678606
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Ho Chi Minh City",
+      "count": 2657,
+      "percent_of_total": 0.231547
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Da Nang",
+      "count": 281,
+      "percent_of_total": 0.024488
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Le Thanh",
+      "count": 231,
+      "percent_of_total": 0.020131
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Tan Binh",
+      "count": 220,
+      "percent_of_total": 0.019172
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Ha Tinh",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Bien Hoa",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "-",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Can Gio",
+      "count": 15,
+      "percent_of_total": 0.001307
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Dong Da",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Nam Dinh",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Hue",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Bach Kim",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Bong Bang",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Vinh",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Phu Ly",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thanh Xuan",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Song Cau",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thu Dau Mot",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Can Tho",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thanh Hoa",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Hai Duong",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Dong Ha",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Muong Nhe",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Nghi Son",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Dien Bien Phu",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Khanh Hoa",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Dong Nai",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thang",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Tan Phu",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Bac Giang",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Nha Trang",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thai Nguyen",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Binh Duong",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Vinh Phuc",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Uyen Hung",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Vinh Yen",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Ha Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Thai Binh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Vinh Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Buon Ma Thuot",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Qui Nhon",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Van Thu",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Cao Lanh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Duong To",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Duc Thanh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Dong Xoai",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Quang Trung",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Kon Tum",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Hoi An",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Haiphong",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Ca Mau",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Chu Se",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Long Xuyen",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Tuyen Quang",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Lien Loc",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Bac Ninh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Tra Tan",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Di Linh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "city_name",
+      "value": "Phu Quoc",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Noi / Hanoi",
+      "count": 7787,
+      "percent_of_total": 0.678606
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ho Chi Minh / Ho Chi Minh City",
+      "count": 2657,
+      "percent_of_total": 0.231547
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Da Nang / Da Nang",
+      "count": 281,
+      "percent_of_total": 0.024488
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Gia Lai / Le Thanh",
+      "count": 231,
+      "percent_of_total": 0.020131
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ba Ria - Vung Tau / Tan Binh",
+      "count": 220,
+      "percent_of_total": 0.019172
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Tinh / Ha Tinh",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Dong Nai / Bien Hoa",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "- / -",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ho Chi Minh / Can Gio",
+      "count": 15,
+      "percent_of_total": 0.001307
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Cao Bang / Dong Da",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Nam Dinh / Nam Dinh",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thua Thien-Hue / Hue",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Noi / Bach Kim",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Kon Tum / Bong Bang",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Nghe An / Vinh",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Nam / Phu Ly",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Hau Giang / Thanh Xuan",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Phu Yen / Song Cau",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Binh Duong / Thu Dau Mot",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Can Tho / Can Tho",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thanh Hoa / Thanh Hoa",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Hai Duong / Hai Duong",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Quang Tri / Dong Ha",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Dien Bien / Muong Nhe",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thanh Hoa / Nghi Son",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Dien Bien / Dien Bien Phu",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "An Giang / Khanh Hoa",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Tinh / Dong Nai",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Bac Giang / Thang",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Kon Tum / Tan Phu",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Bac Giang / Bac Giang",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Khanh Hoa / Nha Trang",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thai Nguyen / Thai Nguyen",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ha Tinh / Binh Duong",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Bac Ninh / Vinh Phuc",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Binh Duong / Uyen Hung",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Vinh Phuc / Vinh Yen",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Quang Ninh / Ha Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thai Binh / Thai Binh",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Vinh Long / Vinh Long",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Dak Lak / Buon Ma Thuot",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Binh Dinh / Qui Nhon",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Thanh Hoa / Van Thu",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Dong Thap / Cao Lanh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Kien Giang / Duong To",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ba Ria - Vung Tau / Duc Thanh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Binh Phuoc / Dong Xoai",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Hoa Binh / Quang Trung",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Kon Tum / Kon Tum",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Quang Nam / Hoi An",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Hai Phong / Haiphong",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ca Mau / Ca Mau",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Gia Lai / Chu Se",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "An Giang / Long Xuyen",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Tuyen Quang / Tuyen Quang",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ba Ria - Vung Tau / Lien Loc",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Bac Ninh / Bac Ninh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Ba Ria - Vung Tau / Tra Tan",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Lam Dong / Di Linh",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "region_city",
+      "value": "Kien Giang / Phu Quoc",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "7552",
+      "count": 3149,
+      "percent_of_total": 0.274423
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45899",
+      "count": 3025,
+      "percent_of_total": 0.263617
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "18403",
+      "count": 1140,
+      "percent_of_total": 0.099346
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135905",
+      "count": 523,
+      "percent_of_total": 0.045577
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45544",
+      "count": 508,
+      "percent_of_total": 0.04427
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63760",
+      "count": 463,
+      "percent_of_total": 0.040349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135951",
+      "count": 453,
+      "percent_of_total": 0.039477
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131429",
+      "count": 201,
+      "percent_of_total": 0.017516
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45543",
+      "count": 196,
+      "percent_of_total": 0.017081
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135967",
+      "count": 162,
+      "percent_of_total": 0.014118
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131392",
+      "count": 99,
+      "percent_of_total": 0.008627
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45903",
+      "count": 81,
+      "percent_of_total": 0.007059
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131353",
+      "count": 81,
+      "percent_of_total": 0.007059
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140832",
+      "count": 76,
+      "percent_of_total": 0.006623
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "56150",
+      "count": 71,
+      "percent_of_total": 0.006187
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150895",
+      "count": 59,
+      "percent_of_total": 0.005142
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63734",
+      "count": 55,
+      "percent_of_total": 0.004793
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38247",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "7602",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "24173",
+      "count": 45,
+      "percent_of_total": 0.003922
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45538",
+      "count": 43,
+      "percent_of_total": 0.003747
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131428",
+      "count": 42,
+      "percent_of_total": 0.00366
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38731",
+      "count": 42,
+      "percent_of_total": 0.00366
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151858",
+      "count": 39,
+      "percent_of_total": 0.003399
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "7643",
+      "count": 35,
+      "percent_of_total": 0.00305
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38732",
+      "count": 33,
+      "percent_of_total": 0.002876
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149131",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135983",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140825",
+      "count": 31,
+      "percent_of_total": 0.002702
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45894",
+      "count": 29,
+      "percent_of_total": 0.002527
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135918",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135917",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "24088",
+      "count": 25,
+      "percent_of_total": 0.002179
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135932",
+      "count": 23,
+      "percent_of_total": 0.002004
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140810",
+      "count": 22,
+      "percent_of_total": 0.001917
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149089",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131386",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150862",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "152992",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63759",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "56153",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "24085",
+      "count": 18,
+      "percent_of_total": 0.001569
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135987",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131435",
+      "count": 16,
+      "percent_of_total": 0.001394
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38244",
+      "count": 14,
+      "percent_of_total": 0.00122
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131423",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151901",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149068",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140762",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135908",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38733",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151917",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149161",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135901",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149147",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135944",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153651",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63765",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149107",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "152989",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153416",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38253",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149085",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63740",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "152979",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135921",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135953",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150873",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151873",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63730",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38726",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131366",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131414",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "133606",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153017",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "56160",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135959",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135990",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131378",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149137",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140787",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149143",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63732",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151852",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151863",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150900",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149145",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135942",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140818",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140766",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149118",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140815",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "45552",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63735",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131440",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150828",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "150861",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131357",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135912",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "24086",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149113",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140829",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "149124",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63739",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153413",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "140770",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153447",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131404",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "63737",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131425",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131427",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "135922",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "154350",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "151908",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "152933",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153501",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "154552",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "153830",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "56158",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "38727",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "asn",
+      "value": "131367",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VNPT",
+      "count": 3583,
+      "percent_of_total": 0.312244
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Viettel",
+      "count": 3197,
+      "percent_of_total": 0.278606
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "FPT Telecom",
+      "count": 1171,
+      "percent_of_total": 0.102048
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "SUPERDATA",
+      "count": 508,
+      "percent_of_total": 0.04427
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "AZDIGI Corporation",
+      "count": 463,
+      "percent_of_total": 0.040349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Webico Company Limited",
+      "count": 453,
+      "percent_of_total": 0.039477
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "MobiFone",
+      "count": 201,
+      "percent_of_total": 0.017516
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Saigontourist Cable Television",
+      "count": 196,
+      "percent_of_total": 0.017081
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Bach Kim Network Solutions Join Stock Company",
+      "count": 162,
+      "percent_of_total": 0.014118
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "CMC Telecom",
+      "count": 125,
+      "percent_of_total": 0.010893
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "GMO-Z.com Runsystem Joint Stock Company",
+      "count": 99,
+      "percent_of_total": 0.008627
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "NhanHoa Software Company",
+      "count": 81,
+      "percent_of_total": 0.007059
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vietnam F Tech. JSC",
+      "count": 76,
+      "percent_of_total": 0.006623
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Viet Solutions Services Trading Company Limited",
+      "count": 71,
+      "percent_of_total": 0.006187
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Ez Technology Company Limited",
+      "count": 59,
+      "percent_of_total": 0.005142
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "365 Online Technology Joint Stock Company",
+      "count": 55,
+      "percent_of_total": 0.004793
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vietnamobile",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Saigon Postel",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "NetNam",
+      "count": 45,
+      "percent_of_total": 0.003922
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "ODS Joint Stock Company",
+      "count": 43,
+      "percent_of_total": 0.003747
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Rainbow E-Commerce Company Limited",
+      "count": 42,
+      "percent_of_total": 0.00366
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Interdigi Joint Stock Company",
+      "count": 39,
+      "percent_of_total": 0.003399
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Long Van",
+      "count": 36,
+      "percent_of_total": 0.003137
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Hanoi Telecom",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Optimal Agency LLC",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Tino Group Joint Stock Company",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Thien Quang Digital Technology Joint Stock Company",
+      "count": 31,
+      "percent_of_total": 0.002702
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Viet Digital Technology Liability Company",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Cong ty TNHH Web Panda",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Viet Storage Technology Joint Stock Company",
+      "count": 23,
+      "percent_of_total": 0.002004
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Megacore Technology Company Limited",
+      "count": 22,
+      "percent_of_total": 0.001917
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Cloudfly Corporation",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VPSTTT Computer Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Online Data Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "TaDu Joint Stock Company",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Digital Storage Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Quang Trung Software City Development Company",
+      "count": 18,
+      "percent_of_total": 0.001569
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Reload Company Limited",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vietnam Esports and Entertainment Joint Stock Company",
+      "count": 16,
+      "percent_of_total": 0.001394
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VNG",
+      "count": 14,
+      "percent_of_total": 0.00122
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Hao Quang Viet Software Company Limited",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Inet software one member company limited",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vinh Railway Signalling - Telecom Joint Stock Company",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Econet Vietnam Corporation",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Jupiter Media Joint Stock Company",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Mega Technology Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Phuong Dong Technology Solution Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Gofiber Software Technology Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VinhNam Commercial Informatics Service Corporation",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "QPPF Company Limited",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "HOSTVN Technology Solutions Joint Stock Company",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "TrumVPS Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "System 443 Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Hoang Dieu Cloud Computing Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "E-Data Technology Service Company Limited",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "TOCDOSOVN-VN",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vietservice Technology Company Limited",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Maxserver Company Limited",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vietnam Online Network Solution Joint Stock Compnay",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "ThuongCloud Company Limited",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Tothost Solutions and Technologies Company Limited",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VNSO Technology Joint Stock Company",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VTC Digicom",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Lanit Technology and Communication Joint Stock Company",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Tidadigi Company Limited",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VIETNIX Solution and Technology Joint Stock Company",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Onebim Vietnam Limited Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Everest Global Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Cloud Viet Technology Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Tan Thanh an International Trade Development Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Lam A Architecture Construction Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Mona Media Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Galaxy Play Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Fute Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "PSG Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VPSmmo Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Vnetwork Telecommunication Services Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Adsota Corporation",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "D.I.C Viet Nam Technology Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "3S Viet Nam Technology Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "HTTVServer Technology Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Metaserv Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Hoatoc Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Zingplay Vietnam Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VMon Cloud Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "PowerNet Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Duy Tan University",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VNETWORK Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Odb Viet Nam Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VMTK . Trading Investment Co. Ltd",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "WebPX Software Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VIETPN Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "HT3 Vietnam Technology Investment and Development Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Digilife Vietnam Digital Services Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "360 Technology and Services Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Masters Technology Corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "VietServer Services Technology Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Dien May Xanh Investment Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "AOHOAVIET-VN",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Clearsky Service Solutions Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "ATZ Corp Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "May Chu Viet Solutions Corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "ZoneCloud Technology Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Pal Vietnam Technology and Trading Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Xylentis Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Upnet Technology Solutions Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Digital World Data Online Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "HaNoi University of science and technology",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_organization",
+      "value": "Viet Online trading service corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viettel Group",
+      "count": 3149,
+      "percent_of_total": 0.274423
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VNPT Corp",
+      "count": 3025,
+      "percent_of_total": 0.263617
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "FPT Telecom Company",
+      "count": 1140,
+      "percent_of_total": 0.099346
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnam Posts and Telecommunications Group",
+      "count": 523,
+      "percent_of_total": 0.045577
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "SUPERDATA-VN",
+      "count": 508,
+      "percent_of_total": 0.04427
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "AZDIGI Corporation",
+      "count": 463,
+      "percent_of_total": 0.040349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Webico Company Limited",
+      "count": 453,
+      "percent_of_total": 0.039477
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Mobifone Corporation",
+      "count": 201,
+      "percent_of_total": 0.017516
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "SaiGon Tourist cable Televition Company",
+      "count": 196,
+      "percent_of_total": 0.017081
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Bach Kim Network Solutions Join Stock Company",
+      "count": 162,
+      "percent_of_total": 0.014118
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "CMC Telecom Infrastructure Company",
+      "count": 125,
+      "percent_of_total": 0.010893
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "GMO-Z.com Runsystem Joint Stock Company",
+      "count": 99,
+      "percent_of_total": 0.008627
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "NhanHoa Software Company",
+      "count": 81,
+      "percent_of_total": 0.007059
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnam F Tech. JSC",
+      "count": 76,
+      "percent_of_total": 0.006623
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viet Solutions Services Trading Company Limited",
+      "count": 71,
+      "percent_of_total": 0.006187
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Ez Technology Company Limited",
+      "count": 59,
+      "percent_of_total": 0.005142
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "365 Online Technology Joint Stock Company",
+      "count": 55,
+      "percent_of_total": 0.004793
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnamobile Telecommunications Joint Stock Company",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Sai Gon Postel Corporation",
+      "count": 52,
+      "percent_of_total": 0.004532
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Netnam Company",
+      "count": 45,
+      "percent_of_total": 0.003922
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "ODS Joint Stock Company",
+      "count": 43,
+      "percent_of_total": 0.003747
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Rainbow E-Commerce Company Limited",
+      "count": 42,
+      "percent_of_total": 0.00366
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietel - CHT Compamy Ltd",
+      "count": 42,
+      "percent_of_total": 0.00366
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Interdigi Joint Stock Company",
+      "count": 39,
+      "percent_of_total": 0.003399
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnam Posts and Telecommunications (VNPT)",
+      "count": 35,
+      "percent_of_total": 0.00305
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Optimal Agency LLC",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Tino Group Joint Stock Company",
+      "count": 32,
+      "percent_of_total": 0.002789
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Thien Quang Digital Technology Joint Stock Company",
+      "count": 31,
+      "percent_of_total": 0.002702
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "FPT Online JSC",
+      "count": 29,
+      "percent_of_total": 0.002527
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viet Digital Technology Liability Company",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Cong ty TNHH Web Panda",
+      "count": 26,
+      "percent_of_total": 0.002266
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Hanoi Telecom Joint Stock Company - HCMC Branch",
+      "count": 25,
+      "percent_of_total": 0.002179
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viet Storage Technology Joint Stock Company",
+      "count": 23,
+      "percent_of_total": 0.002004
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Megacore Technology Company Limited",
+      "count": 22,
+      "percent_of_total": 0.001917
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Cloudfly Corporation",
+      "count": 21,
+      "percent_of_total": 0.00183
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Long Van System Solution JSC",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VPSTTT Computer Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Online Data Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "TaDu Joint Stock Company",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Digital Storage Company Limited",
+      "count": 19,
+      "percent_of_total": 0.001656
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Quang Trung Software City Development Company",
+      "count": 18,
+      "percent_of_total": 0.001569
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Reload Company Limited",
+      "count": 17,
+      "percent_of_total": 0.001481
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnam Esports and Entertainment Joint Stock Company",
+      "count": 16,
+      "percent_of_total": 0.001394
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VNG Corporation",
+      "count": 14,
+      "percent_of_total": 0.00122
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Branch of Long Van System Solution JSC - Hanoi",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Hao Quang Viet Software Company Limited",
+      "count": 13,
+      "percent_of_total": 0.001133
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Inet software one member company limited",
+      "count": 12,
+      "percent_of_total": 0.001046
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vinh Railway Signalling - Telecom Joint Stock Company",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Econet Vietnam Corporation",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Jupiter Media Joint Stock Company",
+      "count": 11,
+      "percent_of_total": 0.000959
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Mega Technology Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Phuong Dong Technology Solution Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Gofiber Software Technology Company Limited",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VinhNam Commercial Informatics Service Corporation",
+      "count": 10,
+      "percent_of_total": 0.000871
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "QPPF Company Limited",
+      "count": 9,
+      "percent_of_total": 0.000784
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "HOSTVN Technology Solutions Joint Stock Company",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "TrumVPS Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "System 443 Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Hoang Dieu Cloud Computing Company Limited",
+      "count": 8,
+      "percent_of_total": 0.000697
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Hanoi Telecom JSC",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "E-Data Technology Service Company Limited",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "TOCDOSOVN-VN",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietservice Technology Company Limited",
+      "count": 7,
+      "percent_of_total": 0.00061
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Maxserver Company Limited",
+      "count": 6,
+      "percent_of_total": 0.000523
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vietnam Online Network Solution Joint Stock Compnay",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "ThuongCloud Company Limited",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Tothost Solutions and Technologies Company Limited",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VNSO Technology Joint Stock Company",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VTC Digicom",
+      "count": 5,
+      "percent_of_total": 0.000436
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Lanit Technology and Communication Joint Stock Company",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Long Van Soft Solution JSC",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viettel Timor Leste",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Tidadigi Company Limited",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VIETNIX Solution and Technology Joint Stock Company",
+      "count": 4,
+      "percent_of_total": 0.000349
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Onebim Vietnam Limited Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Everest Global Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Cloud Viet Technology Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Tan Thanh an International Trade Development Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Lam A Architecture Construction Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Mona Media Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Galaxy Play Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Fute Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "PSG Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VPSmmo Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Vnetwork Telecommunication Services Company Limited",
+      "count": 3,
+      "percent_of_total": 0.000261
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Adsota Corporation",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "D.I.C Viet Nam Technology Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "FPT Smart Cloud Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "3S Viet Nam Technology Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "HTTVServer Technology Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Metaserv Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Hoatoc Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Zingplay Vietnam Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VMon Cloud Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "PowerNet Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Duy Tan University",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VNETWORK Joint Stock Company",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viettel Corporation",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Odb Viet Nam Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000174
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VMTK . Trading Investment Co. Ltd",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "WebPX Software Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VIETPN Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "HT3 Vietnam Technology Investment and Development Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Digilife Vietnam Digital Services Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "360 Technology and Services Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Masters Technology Corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "VietServer Services Technology Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Dien May Xanh Investment Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "AOHOAVIET-VN",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Clearsky Service Solutions Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "ATZ Corp Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "May Chu Viet Solutions Corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "ZoneCloud Technology Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Pal Vietnam Technology and Trading Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Xylentis Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Upnet Technology Solutions Company Limited",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Digital World Data Online Company",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "HaNoi University of science and technology",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "as_raw",
+      "value": "Viet Online trading service corporation",
+      "count": 1,
+      "percent_of_total": 8.7e-05
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "time_zone",
+      "value": "+07:00",
+      "count": 11475,
+      "percent_of_total": 1.0
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "is_proxy",
+      "value": "False",
+      "count": 11408,
+      "percent_of_total": 0.994161
+    },
+    {
+      "ip_version": "ipv4",
+      "dimension": "is_proxy",
+      "value": "True",
+      "count": 67,
+      "percent_of_total": 0.005839
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "province_34",
+      "value": "TP. Hồ Chí Minh",
+      "count": 2710,
+      "percent_of_total": 0.77695
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "province_34",
+      "value": "TP. Hà Nội",
+      "count": 469,
+      "percent_of_total": 0.134461
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "province_34",
+      "value": "Cao Bằng",
+      "count": 308,
+      "percent_of_total": 0.088303
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "province_34",
+      "value": "TP. Huế",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_name_raw",
+      "value": "Ho Chi Minh",
+      "count": 2710,
+      "percent_of_total": 0.77695
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_name_raw",
+      "value": "Ha Noi",
+      "count": 469,
+      "percent_of_total": 0.134461
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_name_raw",
+      "value": "Cao Bang",
+      "count": 308,
+      "percent_of_total": 0.088303
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_name_raw",
+      "value": "Thua Thien-Hue",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "city_name",
+      "value": "Ho Chi Minh City",
+      "count": 2710,
+      "percent_of_total": 0.77695
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "city_name",
+      "value": "Hanoi",
+      "count": 469,
+      "percent_of_total": 0.134461
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "city_name",
+      "value": "Dong Da",
+      "count": 308,
+      "percent_of_total": 0.088303
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "city_name",
+      "value": "Hue",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_city",
+      "value": "Ho Chi Minh / Ho Chi Minh City",
+      "count": 2710,
+      "percent_of_total": 0.77695
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_city",
+      "value": "Ha Noi / Hanoi",
+      "count": 469,
+      "percent_of_total": 0.134461
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_city",
+      "value": "Cao Bang / Dong Da",
+      "count": 308,
+      "percent_of_total": 0.088303
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "region_city",
+      "value": "Thua Thien-Hue / Hue",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "7552",
+      "count": 1540,
+      "percent_of_total": 0.441514
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "45899",
+      "count": 1174,
+      "percent_of_total": 0.336583
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "18403",
+      "count": 510,
+      "percent_of_total": 0.146216
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "45543",
+      "count": 123,
+      "percent_of_total": 0.035264
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "131429",
+      "count": 101,
+      "percent_of_total": 0.028956
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "24173",
+      "count": 19,
+      "percent_of_total": 0.005447
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "45903",
+      "count": 9,
+      "percent_of_total": 0.00258
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "24088",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "63734",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "149085",
+      "count": 2,
+      "percent_of_total": 0.000573
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "135932",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "151858",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "135905",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "asn",
+      "value": "135951",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Viettel",
+      "count": 1540,
+      "percent_of_total": 0.441514
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "VNPT",
+      "count": 1175,
+      "percent_of_total": 0.336869
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "FPT Telecom",
+      "count": 510,
+      "percent_of_total": 0.146216
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Saigontourist Cable Television",
+      "count": 123,
+      "percent_of_total": 0.035264
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "MobiFone",
+      "count": 101,
+      "percent_of_total": 0.028956
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "NetNam",
+      "count": 19,
+      "percent_of_total": 0.005447
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "CMC Telecom",
+      "count": 9,
+      "percent_of_total": 0.00258
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Hanoi Telecom",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "365 Online Technology Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "E-Data Technology Service Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000573
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Viet Storage Technology Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Interdigi Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_organization",
+      "value": "Webico Company Limited",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Viettel Group",
+      "count": 1540,
+      "percent_of_total": 0.441514
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "VNPT Corp",
+      "count": 1174,
+      "percent_of_total": 0.336583
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "FPT Telecom Company",
+      "count": 510,
+      "percent_of_total": 0.146216
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "SaiGon Tourist cable Televition Company",
+      "count": 123,
+      "percent_of_total": 0.035264
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Mobifone Corporation",
+      "count": 101,
+      "percent_of_total": 0.028956
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Netnam Company",
+      "count": 19,
+      "percent_of_total": 0.005447
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "CMC Telecom Infrastructure Company",
+      "count": 9,
+      "percent_of_total": 0.00258
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Hanoi Telecom Joint Stock Company - HCMC Branch",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "365 Online Technology Joint Stock Company",
+      "count": 3,
+      "percent_of_total": 0.00086
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "E-Data Technology Service Company Limited",
+      "count": 2,
+      "percent_of_total": 0.000573
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Viet Storage Technology Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Interdigi Joint Stock Company",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Vietnam Posts and Telecommunications Group",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "as_raw",
+      "value": "Webico Company Limited",
+      "count": 1,
+      "percent_of_total": 0.000287
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "time_zone",
+      "value": "+07:00",
+      "count": 3488,
+      "percent_of_total": 1.0
+    },
+    {
+      "ip_version": "ipv6",
+      "dimension": "is_proxy",
+      "value": "False",
+      "count": 3488,
+      "percent_of_total": 1.0
+    }
+  ]
+}
