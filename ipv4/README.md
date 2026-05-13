@@ -1,98 +1,158 @@
-# IPv4 QUIC Scanner
+# IPv4 QUIC Pipeline
 
-Pipeline IPv4 gom cac buoc:
+This directory contains the IPv4 QUIC scan pipeline. It discovers responsive targets with ZMap, resolves PTR names with ZDNS, builds QScanner input, enriches missing domains from a local SQLite database, runs QScanner, and analyzes the result.
 
-```text
-input/*.txt -> zmap -> zDNS PTR -> QScanner input -> domain enrichment -> QScanner -> analysis
-```
-
-## Cach chay chinh
-
-Dat file input vao thu muc `input/`. File co the la danh sach IP/CIDR cua Vietnam, Singapore, Thailand, Google, hoac bat ky nhom nao.
-
-Vi du:
-
-```bash
-bash scan_all.sh --input=vietnam_ipv4.txt
-bash scan_all.sh --input=thailand_ipv4.txt
-bash scan_all.sh --input=google_ipv4.txt
-```
-
-Neu chi truyen ten file, scanner tu tim trong `input/`. Neu muon truyen duong dan ro rang:
-
-```bash
-bash scan_all.sh --input=input/singapore_ipv4.txt
-```
-
-## Quy tac output
-
-Mac dinh ket qua nam trong:
+## Pipeline
 
 ```text
-output/<target>-YYYY-MM-DD/
+input/*.txt
+  -> zmap UDP/TCP discovery
+  -> zDNS PTR lookup
+  -> zmap/test_input.csv
+  -> domain enrichment from database/domain_ip.sqlite
+  -> QScanner
+  -> output/<target>-YYYY-MM-DD/
 ```
 
-Ten `<target>` duoc suy ra tu ten file input:
+## Ignored Local Data
 
-```text
-input/vietnam_ipv4.txt      -> output/vietnam-2026-04-25/
-input/thailand_ipv4.txt     -> output/thailand-2026-04-25/
-input/google_ipv4.txt       -> output/google-2026-04-25/
-input/vietnam_ipv4_test.txt -> output/vietnam-2026-04-25/
-```
+These paths are generated locally and are not committed:
 
-Co the chi dinh target/date:
+- `config.env`: host-specific paths and scan parameters.
+- `qscanner`: local QScanner executable.
+- `database/domain_ip.sqlite`: generated enrichment database.
+- `database/raw/`, `database/output*`, `database/domain*`: large raw or generated database files.
+- `output/`, `output_latest/`: scan outputs.
+- `__pycache__/`, `*.py[cod]`: Python cache files.
+
+## Setup
+
+Install Python dependencies:
 
 ```bash
-bash scan_all.sh --input=thailand_ipv4.txt --target=thailand --date=2026-04-26
+python3 -m pip install -r requirements.txt
 ```
 
-Kiem tra cau hinh resolve truoc khi scan:
+Install external tools:
+
+```bash
+sudo apt update
+sudo apt install -y zmap golang-go
+go install github.com/zmap/zdns/v2@latest
+export PATH="$PATH:$(go env GOPATH)/bin"
+```
+
+Provide QScanner:
+
+```bash
+cp /path/to/qscanner ./qscanner
+chmod +x ./qscanner
+```
+
+Create local configuration:
+
+```bash
+cat > config.env <<'EOF'
+ZMAP_RATE=3000
+ZMAP_MODE=quic_vn
+ZMAP_PAYLOAD_FILE=initial_qscanner_1a1a1a1a.pkt
+ZDNS_THREADS=200
+QSCANNER_BIN=./qscanner
+DOMAIN_DB=./database/domain_ip.sqlite
+EOF
+```
+
+## Recreate the Ignored Database
+
+Put raw domain/IP source files under `database/raw/`. The database builder accepts:
+
+- text rows formatted as `domain ip`
+- CSV rows containing domain and IP columns
+- JSON/JSONL rows with `domain`, `hostname`, or `name` plus `ip` or `address`
+
+Rebuild the SQLite database:
+
+```bash
+python3 build_domain_ip_db.py \
+  --source-dir database/raw \
+  --db database/domain_ip.sqlite \
+  --recreate
+```
+
+The pipeline uses this database during the enrichment stage. To run without enrichment, pass `--enrich=false`.
+
+## Run
+
+Show resolved configuration:
 
 ```bash
 bash scan_all.sh --input=vietnam_ipv4.txt --date=2026-04-25 --print-config
 ```
 
-Co the doi thu muc goc:
+Run a full scan:
 
 ```bash
-bash scan_all.sh --input=vietnam_ipv4.txt --output-root=output
+bash scan_all.sh --input=vietnam_ipv4.txt --date=2026-04-25
 ```
 
-Hoac override hoan toan thu muc output:
+Common examples:
 
 ```bash
+bash scan_all.sh --input=thailand_ipv4.txt --target=thailand --date=2026-04-26
+bash scan_all.sh --input=input/singapore_ipv4.txt
+bash scan_all.sh --input=vietnam_ipv4.txt --output-root=output
 bash scan_all.sh --input=vietnam_ipv4.txt --out-dir=output/custom-run
 ```
 
-## Cau truc file
+Run only discovery:
 
-- `scan_all.sh`: entrypoint chinh de chay pipeline IPv4.
-- `scan_pipeline.sh`: pipeline shell chinh, duoc goi boi `scan_all.sh`.
-- `analyze_results.py`: entrypoint chinh de phan tich ket qua.
-- `build_domain_ip_db.py`: build SQLite DB domain/IP tu cac file raw trong `database/`.
-- `config.env`: cau hinh mac dinh cho pipeline.
-- `quic_scanner_ipv4/targets.py`: chuan hoa input va ten target.
-- `quic_scanner_ipv4/qscanner_input.py`: tao `test_input.csv` cho QScanner.
-- `quic_scanner_ipv4/domain_enrichment.py`: enrich hostname tu SQLite.
-- `quic_scanner_ipv4/result_analysis.py`: phan tich output cua QScanner.
-- `old_version/`: wrapper tuong thich voi ten file cu.
+```bash
+bash scan_all.sh --input=vietnam_ipv4.txt --zmap-only
+```
 
-## Phan tich ket qua
+## Output
+
+By default, each run writes to:
+
+```text
+output/<target>-YYYY-MM-DD/
+```
+
+The target name is inferred from the input filename:
+
+```text
+input/vietnam_ipv4.txt      -> output/vietnam-YYYY-MM-DD/
+input/thailand_ipv4.txt     -> output/thailand-YYYY-MM-DD/
+input/vietnam_ips_test.txt  -> output/vietnam-YYYY-MM-DD/
+```
+
+Important generated files:
+
+- `zmap/zmap_udp_raw.csv`: raw UDP discovery output.
+- `zmap/zmap_tcp_raw.csv`: raw TCP baseline output.
+- `zmap/ip_list.txt`: union of discovered IPs.
+- `zmap/zdns_results.json`: PTR results.
+- `zmap/test_input.csv`: QScanner input.
+- `qscanner/output/quic_connection_info.csv`: primary QScanner result.
+- `scan_history.log`: append-only run summary.
+
+## Analyze
 
 ```bash
 python3 analyze_results.py --root . --out-dir output/vietnam-2026-04-25 --geo ipapi
-python3 analyze_results.py --root . --out-dir output/vietnam-2026-04-25 --geo ip2location --ip2location-key C02AA07C50F3CBB0CA97BDBFCC03F917
 ```
 
-Hoac chi ro file QScanner:
+With IP2Location:
 
 ```bash
 python3 analyze_results.py \
-  --qscanner-csv output/vietnam-2026-04-25/qscanner/output/quic_connection_info.csv
+  --root . \
+  --out-dir output/vietnam-2026-04-25 \
+  --geo ip2location \
+  --ip2location-key YOUR_KEY
 ```
 
-## Tuy chon pipeline
+Show all pipeline options:
 
 ```bash
 bash scan_all.sh --help

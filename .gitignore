@@ -13,11 +13,14 @@ config.env
 # Scan outputs and generated databases
 ipv4/output/
 ipv4/output_latest/
+ipv4/database/raw/
 ipv4/database/domain*
 ipv4/database/output*
 
 ipv6/output/
 ipv6/output_latest/
+ipv6/database/hitlist-world-responsive-addresses.txt.xz
+ipv6/database/apnic/delegated-apnic-extended-latest
 ipv6/old_version/output-*/
 ipv6/old_version/root_outputs/
 

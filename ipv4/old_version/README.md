@@ -1,13 +1,23 @@
-# Old Version Wrappers
+# IPv4 Old Version Wrappers
 
-Thu muc nay giu cac ten file cu de khong lam dut cac lenh da quen dung.
+This directory keeps compatibility wrappers for older command names. New work should use the maintained IPv4 pipeline one level up.
 
-Code chinh hien nam o root va package `../quic_scanner_ipv4/`:
+## Current Entry Points
 
-- `../scan_pipeline.sh`
-- `../scan_all.sh`
-- `../analyze_results.py`
-- `../build_domain_ip_db.py`
-- `../quic_scanner_ipv4/`
+- `../scan_all.sh`: main IPv4 pipeline entrypoint.
+- `../scan_pipeline.sh`: implementation called by `scan_all.sh`.
+- `../analyze_results.py`: result analysis entrypoint.
+- `../build_domain_ip_db.py`: rebuilds ignored `../database/domain_ip.sqlite`.
+- `../quic_scanner_ipv4/`: shared IPv4 Python package.
 
-Ghi chu: `check_dup.py` va `check_join.py` la cac script kiem tra thu cong cu, khong duoc pipeline moi goi. Khong con ban nguon trong workspace hien tai de chuyen vao day mot cach chinh xac.
+## Reproduction Notes
+
+Ignored outputs from older runs are not stored here. Recreate current outputs from `../`:
+
+```bash
+cd ..
+python3 build_domain_ip_db.py --source-dir database/raw --db database/domain_ip.sqlite --recreate
+bash scan_all.sh --input=vietnam_ipv4.txt --date=2026-04-25
+```
+
+See `../README.md` for the full IPv4 workflow and the root `../../README.md` for repository-wide setup.
